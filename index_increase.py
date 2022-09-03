@@ -7,5 +7,4 @@ def main ():
   print(f"after a raise, would be {after_raise_1} euros")
   print("and if there was another index raise, the study")
   print(f"benefits would be as much as {after_raise_2} euros")
-
-  main ()
+main ()
