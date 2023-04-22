@@ -1,5 +1,5 @@
 # Programming 1: Introduction to programming
-This is a programming course in Python issued by Tampere University. It includes the following:
+This is a programming course in Python offered by Tampere University. It includes the following:
 
 1) Introduction to python and local setup.
 2) Basic building blocks of programming.
