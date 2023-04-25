@@ -5,5 +5,4 @@ def main():
             print(f"{i*j:4}", end="")
         print()
 
-if __name__ == "__main__":
-    main()
+main()
