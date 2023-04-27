@@ -3,8 +3,6 @@ class Player:
 
     def __init__(self, name):
 
-
-
         self.__name = name
         self.__points = 0.0
         self.__counter = 0.0
