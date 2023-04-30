@@ -1,9 +1,4 @@
 """
-COMP.CS.100 Ohjelmointi 1 / Programming 1
-Name: Peter Kiplagat
-Email: peter.kiplagat@tuni.fi
-Student no: 441154
-
 Project: accesscontrol program: using given template
 """
 

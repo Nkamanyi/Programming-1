@@ -1,9 +1,4 @@
 """
-COMP.CS.100 Ohjelmointi 1 / Programming 1
-Name: Peter Kiplagat
-Student no: 441154
-Email: peter.kiplagat@tuni.fi
-
 This program models a character adventuring in a video game,
 or more like, the stuff that the character carries around.
 """
