@@ -1,8 +1,3 @@
-"""
-Programming 1 Fall 2022
-Name: Nkamanyi Martin <chatutie.nkamanyimartin@tuni.fi>
-Student ID: K440302
-"""
 
 def print_box(width,height,mark):
     """
@@ -26,12 +21,8 @@ def read_input(q):
             if b > 0:
                 a = False
                 return b
-        except ValueError:continue
-
-
-
-
-
+        except ValueError:
+            continue
 
 def main():
     width = read_input("Enter the width of a frame: ")
@@ -39,9 +30,7 @@ def main():
     mark = input("Enter a print mark: ")
     print()
 
-
     print_box(width, height, mark)
-
 
 if __name__ == "__main__":
     main()

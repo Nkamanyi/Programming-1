@@ -1,15 +1,4 @@
 
-"""
-COMP.CS.100 Ohjelmointi 1
-            Programming 1
-
-A tool program for analyzing friendship networks
-
-StudentId: k440302
-Firstname Lastname: Nkamanyi Martin Asungu Chatutie
-Email: chatutie.nkamanyimartin@tuni.fi
-"""
-
 # TODO: Update your name, email, and student id in the initial comment.
 
 

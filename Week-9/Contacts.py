@@ -1,10 +1,4 @@
 
-"""
-Programming 1 Fall 2022
-Name: Nkamanyi Martin <chatutie.nkamanyimartin@tuni.fi>
-Student ID: K440302
-"""
-
 def read_file(filename):
     """
     From the CSV file, create a dict from each line of the file and store them in a dict
